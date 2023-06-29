@@ -1,0 +1,2 @@
+## Task
+Given the string “The quick brown fox jumps over the lazy dog” and using modern JavaScript, how would you replace the word dog with cat? How would you uppercase the first character of each word so that the resulting string is “The Quick Brown Fox Jumps Over The Lazy Dog”?
